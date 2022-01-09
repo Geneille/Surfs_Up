@@ -29,16 +29,14 @@ Table 2 Statistical temperature results for the month of December
 
 The major observations that can be made from the analyzed results are:
 
-* The temperature in June is generally higher in June than in December; June temperature varies from a minimum of 64 to a maximum of 85 Farenheight, while the temperature in December varies from 56 to 83 Farenheight. 
+* The temperature in June is generally higher than in December; June temperature varies from a minimum of 64 to a maximum of 85 Farenheight, while the temperature in December varies from 56 to 83 Farenheight. 
 * Although there is generally a higher temperatures in June than in December, the difference is not significant with June and December having an average temperature of 74.9 and 71.0 Farenheight, respectively.
 * With a standard deviation of 3.75 in December compared to 3.25 in June, one can say the temperature in December is slight more dispersed than in June. In other words, the June temperature is slightly more consistent and less dispersed from the mean.
 
 
 ## Summary
 
-The information analyzed indicates that the location is suitable to set up a surf shop based on weather data. 
-
-Figure 1 below shows a box plot comparison of the June and December temperatures, the most anticapted tourist months. As can be observed, generally there isn't a significant variation in the temperatures for these months. The green markers on the figure indicates the average temperature for June and December  from the year 2010 to 2016.
+The information analyzed indicates that the location is suitable to set up a surf shop based on weather data. The temperature is generally hot during the months of June and December temperatures, the most anticapted tourist months. In addition, as can be observed from the box plot presented in Figure 1 below, generally there isn't a significant variation in the temperatures for these months, although June temperature is slighly more steady (less dispersed) than December temperature as mentioned above. The green markers on the figure indicates the average temperature for June and December from the year 2010 to 2016.
 
 Figure 1
 
