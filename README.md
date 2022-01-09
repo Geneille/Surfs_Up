@@ -36,7 +36,7 @@ The major observations that can be made from the analyzed results are:
 
 ## Summary
 
-The information analyzed indicates that the location is suitable to set up a surf shop based on weather data. The temperature is generally hot during the months of June and December temperatures, the most anticapted tourist months. In addition, as can be observed from the box plot presented in Figure 1 below, generally there isn't a significant variation in the temperatures for these months, although June temperature is slighly more steady (less dispersed) than December temperature as mentioned above. The green markers on the figure indicates the average temperature for June and December from the year 2010 to 2016.
+The information analyzed indicates that the location is suitable to set up a surf shop based on weather data. The temperature is generally hot during the months of June and December, the most anticapted tourist months. In addition, as can be observed from the box plot presented in Figure 1 below, generally there isn't a significant variation in the temperatures for these months, although June temperature is slighly more steady (less dispersed) than December temperature as mentioned above. The green markers on the figure indicates the average temperature for June and December from the year 2010 to 2016.
 
 Figure 1
 
